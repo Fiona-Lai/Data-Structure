@@ -1,0 +1,75 @@
+Testing constructor methods
+this is a string
+ another string
+
+Testing copy constructor
+ another string
+
+Testing Append methods
+this is a string another string
+this is a string another string and another
+this is a string another string and another another string
+this is a string another string and another another string!!
+In reverse: !!gnirts rehtona rehtona dna gnirts rehtona gnirts a si siht
+
+Testing for independence of strings
+this is a string another string and another another string!!
+ another string different strings?
+ another string
+
+Special case append to empty string
+...appending data
+
+Testing charAt method
+ another string
+
+Testing delete method
+we build a string of everything
+we build everything
+build everything
+build
+In reverse: dliub
+
+Testing deleteCharAt method
+Xhere is a funney little stringh
+here is a funney little stringh
+here is a funny little stringh
+here is a funny little string
+here is a funny little string
+b1 is now empty: 
+
+Testing indexOf method
+In 'who is whoing over in whoville': 
+who was found at 0
+whoing was found at 7
+whoville was found at 22
+whoviller was found at -1
+wacky was found at -1
+
+In 'xxxxxxxxxxxxxxxxxxxy': 
+xxxxxx was found at 0
+xxxxxy was found at 14
+y was found at 19
+
+Testing insert and replace methods
+this is very cool
+Wow, this is very cool
+Wow, this is very cool as a cucumber!
+In reverse: !rebmucuc a sa looc yrev si siht ,woW
+nospaceshere
+ n o s p a c e s h e r e
+Wow, this is seriously cool as a cucumber!
+Wow, this is seriously cool as a watermelon!
+Crikey, this is seriously cool as a watermelon!
+	 length is 47
+
+Testing substring method
+this
+assignment
+is
+hard
+work
+
+Testing MyStringBuilder return types
+Hello there StringBuilder fans!
+Hello there CS0445 warriors!

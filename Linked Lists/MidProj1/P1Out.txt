@@ -1,0 +1,25 @@
+L1 contains:
+Westley Fezzik Buttercup Inigo 
+
+L2 contains:
+Westley Fezzik Buttercup Inigo 
+
+L1 and L2 are equal
+
+Adding some data...
+L1 and L2 are NOT equal
+
+Removing some data...
+L1 and L2 are NOT equal
+
+L3 contains:
+Westley Fezzik Buttercup Inigo 
+
+L1 and L3 are equal
+
+Adding some data...
+L1 contains:
+Rugen Westley Fezzik Buttercup Inigo 
+
+L3 contains:
+Westley Fezzik Humperdinck Buttercup Inigo
